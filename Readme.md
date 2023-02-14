@@ -80,3 +80,4 @@ Luego las propiedades y los métodos de cada clase.
 ## 4. Bibliografía y ayuda
 - [Juegos con dados](https://patapato.es/campamento-patapato-3/) 
 - [Refactoring.Guru](https://refactoring.guru/es/)
+- [](https://www.tutorialesprogramacionya.com/kotlinya/detalleconcepto.php?punto=26&codigo=26&)
